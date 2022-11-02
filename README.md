@@ -12,4 +12,5 @@ Outils d'évaluation de la sécurité : Owasp Zap, Greenbone Assistant Security
 SOAR : Shuffle, Tines
 Système d'exploitation : Windows, Kali Linux, Debian , Ubuntu
 Langage de script : Python, Php
+- 🌱 I’m currently learning Threat Hunting and DevSecOPs
 
